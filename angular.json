@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "socket-web"
+    }
+  },
+  "defaultProject": "socket-web",
+  "cli": {
+    "analytics": "3d3b8883-da55-4bf6-984e-5f0dfc2964c2"
+  }
 }
