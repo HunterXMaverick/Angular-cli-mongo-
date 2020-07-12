@@ -1,6 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
-import { DocumentosService } from '../servicios/documentos.service';
-import { Documentos } from '../modelos/documentos';
+import { DocumentosService } from '../../servicios/documentos.service';
+import { Documentos } from '../../modelos/documentos';
 import { Subscription } from 'rxjs';
 import { startWith} from 'rxjs/operators';
 
